@@ -1,22 +1,45 @@
-# My Personal Portfolio
+# 👨‍💻 Developer Portfolio - Full-Stack Java & Web Engineer
 
-## 📌 Description
-Welcome to **My Personal Portfolio**! This project is part of the curated software workspace.
+> **Official personal developer portfolio showcasing Full-Stack Java applications, AI agent systems, interactive web projects, professional experience, and technical skills.**
+
+---
+
+## ✨ Features
+
+- 🚀 **Interactive Project Showcase**
+  - Featured section highlighting Full-Stack Java applications, AI agent tools, and modern web apps.
+- ⚡ **Technical Skills Matrix**
+  - Categorized breakdown of Core Java, Spring Boot, React, Node.js, Python, SQL/NoSQL databases, and DevOps tools.
+- 📜 **Experience & Education Timeline**
+  - Chronological timeline detailing academic credentials, software engineering achievements, and certifications.
+- 📧 **Contact & Social Connect**
+  - Interactive contact form, direct email links, GitHub profile, and LinkedIn integrations.
+- 🔍 **SEO & Performance Optimized**
+  - Built-in `sitemap.xml`, OpenGraph meta tags, `robots.txt`, and light/dark theme optimization.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, Vanilla JavaScript (ES6+), CSS3 (Flexbox/Grid, Glassmorphism, CSS Animations)
+- **Icons & Fonts**: Google Fonts, FontAwesome / Boxicons
+- **SEO**: Structured Meta Tags, XML Sitemap, OpenGraph Schema
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Ensure you have the required runtime environment installed for this project:
-- **Node.js** (if applicable for web/frontend components)
-- **Python 3.10+** (if applicable for AI/voice scripts)
-- **Java JDK 17+** (if applicable for Java applications)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Omkar4812x/My-Personal-Portfolio.git
+   cd My-Personal-Portfolio
+   ```
 
-### Installation & Execution
-1. Clone this repository to your local machine.
-2. Install dependencies:
-   - For Node.js projects: `npm install`
-   - For Python projects: `pip install -r requirements.txt` (or create a venv: `python -m venv venv`)
-3. Launch the application entry point.
+2. **Launch Site**:
+   Open `index.html` in any web browser or serve via Live Server.
 
-## 📄 License & Attribution
-Created and maintained as part of the Tech Hub projects collection.
+---
+
+## 📄 License
+
+Distributed under the MIT License.
