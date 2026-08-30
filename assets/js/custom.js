@@ -203,7 +203,7 @@
                     strings: [
                         'Full Stack Java Developer',
                         'Software Engineer',
-                        'MCA Student'
+                        'MCA 2nd Year Student'
                     ],
                     breakLines: false
                 });
